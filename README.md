@@ -2,7 +2,7 @@
 - 👀 I’m interested in real-time systems, responsive user interfaces, and rapid development.
 - 🌱 I’m currently learning JavaScript, Vue, Node.js, and related technolgies.
 - 💞️ I’m looking to collaborate on anything that allows me grow my JavaScript skills.
-- 📫 ericrichards@fastmail.com
+- 📫 ericrichardson@fastmail.com
 
 <!---
 ewrichardson/ewrichardson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
